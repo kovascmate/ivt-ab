@@ -1,4 +1,4 @@
-package hu.bme.mit.spaceship;
+package hu.bme.mit.spaceship; //asdasdasd
 
 /**
 * Weapon firing mode enumeration
