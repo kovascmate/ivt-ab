@@ -1,5 +1,4 @@
-package hu.bme.mit.spaceship; //cica
-
+package hu.bme.mit.spaceship; 
 /**
 * Weapon firing mode enumeration
 *
